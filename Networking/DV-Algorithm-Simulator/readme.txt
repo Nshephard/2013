@@ -9,6 +9,8 @@ This project is a modular distance vector simulation across 5 routers (A,B,C,D,E
 3) BE AFRAID AS TERMINALS COME OUT OF THE WOODWORK, just kidding, but terminals should be instantiated for each router in the test
 4) Routers will remain active (and continue producing timeout updating messaging) until manually closed
 
+NOTE: Majority of content on readrouters.c/.h supplied by my professor, Dr. Carl Hauser.
+
 
 Thanks, Enjoy!
 -Nick
