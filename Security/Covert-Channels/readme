@@ -1,1 +1,0 @@
-A simple covert channel that utilizes the /tmp directory so different user accounts can communicate with one another.
